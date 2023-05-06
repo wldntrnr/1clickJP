@@ -2,7 +2,7 @@
 trying to make Japanese IME more comfortable to use
 
 ### Explanation
-The idea behind this is simple - we're using a shortcut for Japanese (Shift+Ctrl+1, need to be set in Windows)
+The idea behind this is simple - we're using a shortcut for Japanese (Shift+Ctrl+1, needs to be set in Windows)
 and then "pressing" a button that works as a Kana button
 which is located somewhere on Japanese keyboards (idk I don't have one).
 Thus, it is always one button press to Hiragana from any selected layout, be it English or any other.
