@@ -8,7 +8,7 @@ which is present on Japanese keyboards (so you don't have to buy one).
 Thus, it is always one button press to Hiragana from any selected layout, be it English or any other.
 
 I used F1-F3 and Capslock since they are fairly useless to me.
-You can use any keys/combination you like, just replace mine with yours.
+You can use any keys/combination you like, just replace mine with yours in the script.
 
 ### How to use
 You can either install AutoHotKey and use a script (.ahk) to compile your own EXE file (RMB > Compile)
