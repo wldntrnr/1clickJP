@@ -17,7 +17,7 @@ or just use my EXE if you are brave enough >:3
 To make it run with Windows you can create a shortcut and drop it in your Startup folder, this is what I did.
 
 ### Tips
-[How to set up the language shortcuts](https://www.itechtics.com/change-keyboard-layout-shortcuts/).
+[How to set up language shortcuts](https://www.itechtics.com/change-keyboard-layout-shortcuts/).
 
 To prevent Windows from resetting your language shortcuts I **highly recommend** to apply the solution from [here](https://superuser.com/questions/1134099/windows-10-language-bar-hot-keys-are-reseted-to-none-after-locking).
 
